@@ -1,0 +1,34 @@
+Domain,Judgment,N,Pct
+Patient Selection,Low,13,22.0
+Patient Selection,Unclear,30,50.8
+Patient Selection,High,16,27.1
+Index Test,Low,45,76.3
+Index Test,Unclear,11,18.6
+Index Test,High,3,5.1
+Reference Standard,Low,50,84.7
+Reference Standard,Unclear,9,15.3
+Reference Standard,High,0,0.0
+Flow & Timing,Low,19,32.2
+Flow & Timing,Unclear,40,67.8
+Flow & Timing,High,0,0.0
+Analysis,Low,31,52.5
+Analysis,Unclear,12,20.3
+Analysis,High,7,11.9
+AI-Specific,Low,5,8.5
+AI-Specific,Unclear,28,47.5
+AI-Specific,High,14,23.7
+Applicability: Patient,Low,13,22.0
+Applicability: Patient,Unclear,39,66.1
+Applicability: Patient,High,7,11.9
+Applicability: Index Test,Low,55,93.2
+Applicability: Index Test,Unclear,2,3.4
+Applicability: Index Test,High,2,3.4
+Applicability: Ref Std,Low,50,84.7
+Applicability: Ref Std,Unclear,9,15.3
+Applicability: Ref Std,High,0,0.0
+Overall ROB,Low,7,11.9
+Overall ROB,Unclear,28,47.5
+Overall ROB,High,24,40.7
+Overall Applicability,Low,13,22.0
+Overall Applicability,Unclear,39,66.1
+Overall Applicability,High,7,11.9

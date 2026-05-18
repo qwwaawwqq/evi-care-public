@@ -1,0 +1,2 @@
+"Dataset","Contrast","Se_diff","Sp_diff","Pr_Se_superior","Pr_Sp_superior"
+"Referable","AI only vs Reader only","0.225 [-0.060, 0.517]","0.208 [-0.028, 0.604]",0.951,0.946

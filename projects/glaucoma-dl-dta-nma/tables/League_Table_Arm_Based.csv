@@ -1,0 +1,2 @@
+"Dataset","Contrast","Se_diff","Sp_diff","Pr_Se_superior","Pr_Sp_superior"
+"All-data arm-based","AI only vs Reader only","0.079 [0.037, 0.128]","0.049 [0.018, 0.087]",1,0.999666666666667

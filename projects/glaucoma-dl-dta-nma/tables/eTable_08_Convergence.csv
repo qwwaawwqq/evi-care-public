@@ -1,0 +1,8 @@
+"Parameter","Rhat","n.eff","Label","Rhat_ok","neff_ok"
+"sens[1,1]",1.00119001085509,2900,"Se: Reader only",TRUE,TRUE
+"sens[2,1]",1.00630794138131,270,"Se: AI only",TRUE,FALSE
+"spec[1,1]",1.00067405777654,3000,"Sp: Reader only",TRUE,TRUE
+"spec[2,1]",1.00194329737464,1200,"Sp: AI only",TRUE,TRUE
+"SDstudysens",1.16918613556382,16,"SD(study Se)",FALSE,FALSE
+"SDstudyspec",1.04857357957043,38,"SD(study Sp)",TRUE,FALSE
+"rho.study",1.03153602592908,66,"Corr(Se, Sp)",TRUE,FALSE

@@ -1,0 +1,3 @@
+"Stratum","DIC_Consistency","DIC_UME","Delta_DIC","Interpretation"
+"OSCC/cancer vs non-cancer",522.4,523.8,1.33,"No evidence of inconsistency"
+"Dysplasia/OPMD vs non-dysplasia/normal",413.9,409.1,-4.84,"Possible inconsistency"

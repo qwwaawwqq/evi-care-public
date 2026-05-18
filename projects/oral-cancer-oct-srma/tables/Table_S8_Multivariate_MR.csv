@@ -1,0 +1,5 @@
+"Stratum","Covariate","Level","Se_Mean","Se_Lo","Se_Hi","Se_Sig","Sp_Mean","Sp_Lo","Sp_Hi","Sp_Sig"
+"OSCC/cancer vs non-cancer","meta_regression_AI_model_type","CNN / deep residual vs Classical ML / ANN",-0.463065016736763,-2.14862182962318,1.29008194160577,FALSE,-2.05234568551443,-3.95735554986792,0.135360182420406,FALSE
+"OSCC/cancer vs non-cancer","meta_regression_AI_model_type","Hybrid / unclear vs Classical ML / ANN",-0.648026796569616,-2.6735156394274,1.51106947902738,FALSE,-1.44611855819374,-3.49365202937895,0.734971334416188,FALSE
+"OSCC/cancer vs non-cancer","meta_regression_AI_model_type","Not applicable vs Classical ML / ANN",1.39174021052727,-4.91468112424459,7.54667777745982,FALSE,2.12991702422698,-4.05812714756232,8.24676993294969,FALSE
+"OSCC/cancer vs non-cancer","meta_regression_AI_model_type","Rule-based / threshold / engineered vs Classical ML / ANN",1.45317396361405,-5.0119422369443,7.70010228484557,FALSE,1.27354814996229,-4.88220685266548,7.56596496441333,FALSE

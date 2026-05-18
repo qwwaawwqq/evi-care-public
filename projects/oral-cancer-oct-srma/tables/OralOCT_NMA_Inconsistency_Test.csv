@@ -1,0 +1,3 @@
+"Model","DIC","Delta_DIC","Interpretation"
+"Consistency (NMA)",1061.8602819922,0,"Reference"
+"Unrelated Mean Effects (UME)",1041.08307934189,-20.78,"Possible inconsistency (UME DIC lower by >3)"

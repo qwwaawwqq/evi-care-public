@@ -1,0 +1,9 @@
+"Covariate","Level","Se_Mean","Se_Lo","Se_Hi","Se_Sig","Se_Pval","Sp_Mean","Sp_Lo","Sp_Hi","Sp_Sig","Sp_Pval"
+"meta_regression_target_condition_definition","Dysplasia/OPMD vs non-dysplasia/normal vs Cancer stage / severity discrimination",0.578868755907671,-0.50087918542592,1.68501497264228,FALSE,0.296,-0.42332478715131,-1.86246724684707,1.09918060611463,FALSE,0.5475
+"meta_regression_target_condition_definition","Margin status / residual disease vs Cancer stage / severity discrimination",0.0692455401145855,-1.3927156332332,1.48769949877076,FALSE,0.8915,-0.296655060009588,-2.18564830995528,1.6411006468811,FALSE,0.7495
+"meta_regression_target_condition_definition","OSCC/cancer vs non-cancer vs Cancer stage / severity discrimination",0.896638935403202,-0.193406041467498,1.99100401989506,FALSE,0.1,0.245862762269182,-1.19518307560062,1.75989798570216,FALSE,0.7385
+"meta_regression_target_condition_definition","Other / unclear vs Cancer stage / severity discrimination",0.426013189813361,-1.03660269064139,1.9689362065409,FALSE,0.572,0.436558030084974,-1.18867823917735,2.07004141703411,FALSE,0.602
+"meta_regression_AI_model_type","CNN / deep residual vs Classical ML / ANN",-1.26897879236791,-2.30378858103903,-0.244177069781093,TRUE,0.022,-2.10699649581924,-3.80401413225542,-0.325769073163218,TRUE,0.0235
+"meta_regression_AI_model_type","Hybrid / unclear vs Classical ML / ANN",-1.44537376727934,-2.99712030125435,0.134073775723107,FALSE,0.074,-1.33015157051984,-3.236642395127,0.68763187437291,FALSE,0.177
+"meta_regression_AI_model_type","Not applicable vs Classical ML / ANN",0.900844450237468,-5.10159652696177,7.06240454574381,FALSE,0.7625,1.44351742550248,-4.7391086124186,7.47637617471512,FALSE,0.6425
+"meta_regression_AI_model_type","Rule-based / threshold / engineered vs Classical ML / ANN",1.08443261176318,-5.09346071248692,7.3010311886049,FALSE,0.7365,1.09281693567405,-5.22304597003304,7.35638808701382,FALSE,0.7355

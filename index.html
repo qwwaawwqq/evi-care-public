@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>EVI-CARE — Public Mode (view-only)</title>
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<div class="banner">EVI-CARE Public Mode — view-only snapshot of in-progress systematic reviews. Pre-publication; treat as methodology demonstration, not as final clinical evidence.</div>
+<div class="layout">
+  <aside class="sidebar">
+    <h1>EVI-CARE</h1>
+    <div class="tagline">Evidence-to-Care · public mode</div>
+    <div class="project-switch">
+      <label for="projectSelect">Project</label>
+      <select id="projectSelect"></select>
+    </div>
+    <ul class="nav" id="stageNav"></ul>
+  </aside>
+  <main class="content">
+    <h2 class="stage-title" id="stageTitle">Loading…</h2>
+    <p class="stage-sub" id="stageSub"></p>
+    <div id="stageBody"></div>
+    <div class="disclaimer">
+      <strong>Disclaimer.</strong> This is a read-only public mode of the EVI-CARE pipeline.
+      Figures, tables, and certainty ratings shown here are pre-publication snapshots.
+      Underlying full-text PDFs remain the property of their respective publishers and are
+      provided here for transparent peer review of the methodology only. Please cite the
+      original studies, not this page.
+    </div>
+    <footer class="site-foot">Built by build_public_site.py · EVI-CARE evidence-to-care pipeline</footer>
+  </main>
+</div>
+<script src="assets/app.js?v=20260518104528"></script>
+</body>
+</html>

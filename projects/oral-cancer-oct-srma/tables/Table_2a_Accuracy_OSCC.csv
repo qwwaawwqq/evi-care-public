@@ -1,0 +1,4 @@
+"Stratum","Test","Sensitivity","Specificity","Youden"
+"OSCC/cancer vs non-cancer","AI / DL","0.915 [0.824, 0.966]","0.921 [0.783, 0.983]","0.836 [0.681, 0.925]"
+"OSCC/cancer vs non-cancer","Clinician","0.943 [0.865, 0.986]","0.979 [0.917, 0.998]","0.922 [0.826, 0.975]"
+"OSCC/cancer vs non-cancer","Automated non-DL","0.942 [0.879, 0.977]","0.917 [0.776, 0.981]","0.858 [0.701, 0.938]"

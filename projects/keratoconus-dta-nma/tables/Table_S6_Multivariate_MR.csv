@@ -1,0 +1,8 @@
+"Stratum","Covariate","Type","Se_Mean","Se_Lo","Se_Hi","Se_Sig","Sp_Mean","Sp_Lo","Sp_Hi","Sp_Sig"
+"Established keratoconus vs normal","validation: Cross-validation vs Internal test set","Multivariate",0.854611167353472,0.196048694181617,1.52848850782985,TRUE,0.590105699272713,-0.48254350779722,1.73388179679064,FALSE
+"Established keratoconus vs normal","validation: External validation vs Internal test set","Multivariate",-0.525366754238151,-6.96721075506945,5.65306391021577,FALSE,-0.237977097571043,-6.35009364496354,5.67778952355719,FALSE
+"Established keratoconus vs normal","sample_size: Large (>=500) vs Medium (100-499)","Multivariate",0.156419369767311,-0.48792848225295,0.786898565308062,FALSE,1.48869770384024,0.424999685139539,2.57739429602682,TRUE
+"Established keratoconus vs normal","sample_size: Small (<100) vs Medium (100-499)","Multivariate",-0.237812200272737,-1.17900603532183,0.722234993942372,FALSE,0.542774209797813,-0.876634969785216,2.27176295323208,FALSE
+"Established keratoconus vs normal","external_val: Yes vs No","Multivariate",-0.491119904316332,-6.54872643168951,5.86216255421943,FALSE,-0.207915889298,-6.2904728093164,5.96249399816592,FALSE
+"Early / subclinical keratoconus vs normal","rob: High vs Low/Unclear","Multivariate",1.82139608673421,0.147470193852267,3.61763046187949,TRUE,1.35658252602396,-0.463677512133103,3.31180287007948,FALSE
+"Early / subclinical keratoconus vs normal","input_type: Tabular parameters vs Image-based","Multivariate",2.46587220093108,0.101524710626748,4.85457325409761,TRUE,1.62410035513469,-0.848752418915313,4.33774650062323,FALSE

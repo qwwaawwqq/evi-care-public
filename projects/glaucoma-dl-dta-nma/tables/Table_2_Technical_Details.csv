@@ -1,0 +1,84 @@
+Study,Year,Test arm,AI algorithm / architecture,Number of human readers,Reader experience (yrs),Reader age,Reader sex (F),Validation type,Reference standard,Threshold / cut-off,Unit
+ Al-Aswad et al,2019,Resnet,Pegasus,,,,,external,original clinical diagnosis from SiMES,"Glaucoma was considered to be a VCDR of ≥0.7 with an associated functional visual loss on perimetry, or VCDR of ≥0.6 with a disc notch",image
+ Al-Aswad et al,2019,glaucoma fellow,,2.0,5.5,,,external,original clinical diagnosis from SiMES,"Glaucoma was considered to be a VCDR of ≥0.7 with an associated functional visual loss on perimetry, or VCDR of ≥0.7 with a disc notch",image
+ Al-Aswad et al,2019,glaucooma specialist,,1.0,,,,external,original clinical diagnosis from SiMES,"Glaucoma was considered to be a VCDR of ≥0.7 with an associated functional visual loss on perimetry, or VCDR of ≥0.8 with a disc notch",image
+ Al-Aswad et al,2019,ophthalomoly resident,,2.0,2.5,,,external,original clinical diagnosis from SiMES,"Glaucoma was considered to be a VCDR of ≥0.7 with an associated functional visual loss on perimetry, or VCDR of ≥0.9 with a disc notch",image
+ Al-Aswad et al,2019,neurologist ,,1.0,,,,external,original clinical diagnosis from SiMES,"Glaucoma was considered to be a VCDR of ≥0.7 with an associated functional visual loss on perimetry, or VCDR of ≥0.10 with a disc notch",image
+Wada-Koike et al,2024,physicians,,10.0,11.0,,5.0,,The Prevalence of Primary Open-Angle Glaucoma in Japanese The Tajimi Study," (1) the vertical cup-to-disc ratio of the optic nerve head was 0.7 or more, (2) the 
+rim-to-disc ratio at the superior portion (11- to 1-o’clock positions) or the inferior portion (5- to 7-o’clock positions) was 
+0.1 or less, (3) the difference in the vertical cup-to-disc ratio was 0.2 or more between both eyes, or (4) retinal nerve fiber 
+layer defects were found. Visual field sensitivity was assessed using the Humphrey Visual Field Analyzer (Carl Zeiss 
+Meditec) 30–2 Swedish interactive threshold algorithm standard program. According to the Anderson-Patella criteria, 
+a glaucomatous visual field defect was diagnosed when (1) the glaucoma hemifield test results were outside normal 
+limits; (2) pattern deviation probability plots in the upper or lower hemifield showed a cluster of three or more non-edge 
+contiguous points with a sensitivity of less than 5%, of which at least one point had a probability of less than 1%; or (3) 
+a pattern standard deviation outside the 96% normal confidence limits was noted.",eye
+Wada-Koike et al,2024,ophthalomoly resident,,10.0,2.2,,7.0,,The Prevalence of Primary Open-Angle Glaucoma in Japanese The Tajimi Study," (1) the vertical cup-to-disc ratio of the optic nerve head was 0.7 or more, (2) the 
+rim-to-disc ratio at the superior portion (11- to 1-o’clock positions) or the inferior portion (5- to 7-o’clock positions) was 
+0.1 or less, (3) the difference in the vertical cup-to-disc ratio was 0.2 or more between both eyes, or (4) retinal nerve fiber 
+layer defects were found. Visual field sensitivity was assessed using the Humphrey Visual Field Analyzer (Carl Zeiss 
+Meditec) 30–2 Swedish interactive threshold algorithm standard program. According to the Anderson-Patella criteria, 
+a glaucomatous visual field defect was diagnosed when (1) the glaucoma hemifield test results were outside normal 
+limits; (2) pattern deviation probability plots in the upper or lower hemifield showed a cluster of three or more non-edge 
+contiguous points with a sensitivity of less than 5%, of which at least one point had a probability of less than 1%; or (3) 
+a pattern standard deviation outside the 97% normal confidence limits was noted.",eye
+Wada-Koike et al,2024,specialists,,9.0,11.7,,5.0,,The Prevalence of Primary Open-Angle Glaucoma in Japanese The Tajimi Study," (1) the vertical cup-to-disc ratio of the optic nerve head was 0.7 or more, (2) the 
+rim-to-disc ratio at the superior portion (11- to 1-o’clock positions) or the inferior portion (5- to 7-o’clock positions) was 
+0.1 or less, (3) the difference in the vertical cup-to-disc ratio was 0.2 or more between both eyes, or (4) retinal nerve fiber 
+layer defects were found. Visual field sensitivity was assessed using the Humphrey Visual Field Analyzer (Carl Zeiss 
+Meditec) 30–2 Swedish interactive threshold algorithm standard program. According to the Anderson-Patella criteria, 
+a glaucomatous visual field defect was diagnosed when (1) the glaucoma hemifield test results were outside normal 
+limits; (2) pattern deviation probability plots in the upper or lower hemifield showed a cluster of three or more non-edge 
+contiguous points with a sensitivity of less than 5%, of which at least one point had a probability of less than 1%; or (3) 
+a pattern standard deviation outside the 98% normal confidence limits was noted.",eye
+Liu et al,2018,ResNet50,,,,,,external,"confirmed by Royal Australia and New Zealand College of Ophthalmologists-certified glaucoma subspecialists based on history, clinical examination, perimetry results, and OCT imaging",,image
+Liu et al,2018,glaucooma specialist,,11.0,,,,external,"confirmed by Royal Australia and New Zealand College of Ophthalmologists-certified glaucoma subspecialists based on history, clinical examination, perimetry results, and OCT imaging",,image
+Liu et al,2018,general ophthalmologists,,7.0,,,,external,"confirmed by Royal Australia and New Zealand College of Ophthalmologists-certified glaucoma subspecialists based on history, clinical examination, perimetry results, and OCT imaging",,image
+Phene et al,2019,CNN,Inception-v3,,,,,externlal and internal ,the reference standard was determined by a rotating panel of 3 fellowship-trained glaucoma specialists,,image
+Phene et al,2019,glaucoma fellow,,,,,,externlal and internal ,the reference standard was determined by a rotating panel of 4 fellowship-trained glaucoma specialists,,image
+Phene et al,2019,general ophthalmologists,,,,,,externlal and internal ,the reference standard was determined by a rotating panel of 5 fellowship-trained glaucoma specialists,,image
+Phene et al,2019,Optometrist,,,,,,externlal and internal ,the reference standard was determined by a rotating panel of 6 fellowship-trained glaucoma specialists,,image
+ Jammal et al,2020,ResNet34,machine to-machine (M2M),,,,,internal, objective SD OCT-derived measurements of retinal nerve fiber layer (RNFL) thickness ,,image
+ Jammal et al,2020,glaucooma specialist,,2.0,,,,internal, objective SD OCT-derived measurements of retinal nerve fiber layer (RNFL) thickness ,,image
+Eliash et al,2005,LDA,,,,,,internal,," Eyes were defined as glaucomatous if there was both glaucomatous
+ optic neuropathy (GON) and glaucomatous VF loss. GON was defined
+ as either intereye cup-disc ratio asymmetry 0.2, accounting for disc
+ size; rim thinning or notching; peripapillary hemorrhages; or cup-disc
+ ratio 
+0.6. Glaucomatous VF loss was diagnosed if any of the follow
+ing findings were evident on two consecutive VF tests: a glaucoma
+ hemifield test outside normal limits, pattern standard deviation (PSD)
+ 5%, or a cluster of three or more nonedge points in typical glauco
+matous locations, all depressed on the pattern deviation plot at a level
+ of P 0.05,withonepoint in the cluster depressed at a level of P 0.01.",image
+Eliash et al,2005,SVML,,,,,,internal,,,image
+Eliash et al,2005,RPART,,,,,,internal,,,image
+Eliash et al,2005,GLM,,,,,,internal,,,image
+Eliash et al,2005,GAM,,,,,,internal,,,image
+Naithani et al,2007,LDA,,,,,,internal,IOP+VF,"IOP of 21 mm Hg and reliable, consistent glaucomatous visual field defects
+ commensurate with optic nerve damage on more than two occasions.
+ Glaucomatous visual field loss was defined as consistent presence of a
+ cluster of three or more nonedge points on the pattern deviation plot
+ in typical glaucomatous locations, CPSD with P 5%, or a GHT outside",image
+Naithani et al,2007,ANN,,,,,,internal,,"IOP of 21 mm Hg and reliable, consistent glaucomatous visual field defects
+ commensurate with optic nerve damage on more than two occasions.
+ Glaucomatous visual field loss was defined as consistent presence of a
+ cluster of three or more nonedge points on the pattern deviation plot
+ in typical glaucomatous locations, CPSD with P 6%, or a GHT outside",image
+Naithani et al,2007,CTREE,,,,,,internal,,"IOP of 21 mm Hg and reliable, consistent glaucomatous visual field defects
+ commensurate with optic nerve damage on more than two occasions.
+ Glaucomatous visual field loss was defined as consistent presence of a
+ cluster of three or more nonedge points on the pattern deviation plot
+ in typical glaucomatous locations, CPSD with P 7%, or a GHT outside",image
+Bizios et al,2010,SVML,,,,,,internal,," deviation outside the 95% normal
+ limit and classified by the Glaucoma
+ Hemifield Test as falling outside nor
+mal limits. The visual field defects
+ measured by standard automated peri
+ The included patient’s eyes had reproduc ible visual field defects (SITA Stan dard 24-2 tests), with mean deviation (MD) ‡ )12 dB, pattern standard metry (SAP) corresponded to glaucomatous changes in the optic nerve head (ONH) and⁄or the RNFLjudged by examination of photographs.",image
+Bizios et al,2010,ANN,,,,,,internal,," deviation outside the 95% normal
+ limit and classified by the Glaucoma
+ Hemifield Test as falling outside nor
+mal limits. The visual field defects
+ measured by standard automated peri
+ The included patient’s eyes had reproduc ible visual field defects (SITA Stan dard 24-2 tests), with mean deviation (MD) ‡ )13 dB, pattern standard metry (SAP) corresponded to glaucomatous changes in the optic nerve head (ONH) and⁄or the RNFLjudged by examination of photographs.",image
