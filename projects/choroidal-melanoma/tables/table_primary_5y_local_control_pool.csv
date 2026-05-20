@@ -1,0 +1,7 @@
+analysis_measure,analysis_node,analysis_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_local_control_success,CIRT,Carbon ion,2,442,417,94.14,91.54,95.98,0,0,metaprop_PLOGIT_REML
+5y_local_control_success,I125_plaque,I-125 plaque,8,1810,1669,92.4,87.99,95.28,0.4146,77.9,metaprop_PLOGIT_REML
+5y_local_control_success,Photon_SRS_FSRT,Photon SRS/FSRT,4,473,442,91.47,84.26,95.55,0.34883,70.83,metaprop_PLOGIT_REML
+5y_local_control_success,PBT,Proton beam,6,3348,3227,95.29,90.87,97.63,0.62312,87.37,metaprop_PLOGIT_REML
+5y_local_control_success,Ru106_plaque,Ru-106 plaque,13,3682,3132,82.67,77.52,86.85,0.31236,89.34,metaprop_PLOGIT_REML
+5y_local_control_success,Ru106_plus_TTT,Ru-106 plaque + TTT,1,196,174,88.58,83.33,92.33,NA,NA,metaprop_PLOGIT_REML

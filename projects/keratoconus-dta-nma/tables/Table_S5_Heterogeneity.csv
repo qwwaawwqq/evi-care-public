@@ -1,0 +1,13 @@
+"Stratum","Metric","Mean","Lo95","Hi95"
+"Established keratoconus vs normal","Tau Se",0.532459295991604,0.0260303531735838,1.18826592132488
+"Established keratoconus vs normal","Tau Sp",0.848679158586277,0.0997975516692207,1.75243999066655
+"Established keratoconus vs normal","SD within-study Se",0.583411362162925,0.087093010277012,1.19688281613001
+"Established keratoconus vs normal","SD within-study Sp",0.810197535317466,0.0456014187676925,1.66496240362999
+"Established keratoconus vs normal","I2 Se",0.0973976258271251,0.000205917427124826,0.300302573727163
+"Established keratoconus vs normal","I2 Sp",0.192583304789064,0.00301820392804715,0.482799432344487
+"Early / subclinical keratoconus vs normal","Tau Se",0.755172331931275,0.0460092585415593,1.77712209296172
+"Early / subclinical keratoconus vs normal","Tau Sp",0.96026378025408,0.0877481167255517,1.90809745958957
+"Early / subclinical keratoconus vs normal","SD within-study Se",0.806344878072708,0.0255902328961796,1.81979157414497
+"Early / subclinical keratoconus vs normal","SD within-study Sp",0.914887639172622,0.0639915776040097,1.89460776984962
+"Early / subclinical keratoconus vs normal","I2 Se",0.164302035247262,0.00064303228971668,0.489787171249691
+"Early / subclinical keratoconus vs normal","I2 Sp",0.22855296395763,0.00233497305208162,0.525319760920538

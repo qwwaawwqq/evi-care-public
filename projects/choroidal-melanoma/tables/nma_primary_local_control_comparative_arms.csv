@@ -1,0 +1,3 @@
+record_id,study_id,year,arm_id,analysis_node,analysis_node_label,total,events_analysis,analysis_pct,outcome_family,quantitative_outcome_slot,derivation_note,source_page_or_table,source_evidence
+SCR00062,Kim 2025,2025,arm_cirt,CIRT,Carbon ion,192,181,94.4,local_recurrence,primary_5y_local_recurrence,converted_from_local_recurrence,Page 3 and Figure 1,"The 5-year local failure rate was 5.6% (95% CI, 2.0%-9.3%) for the CIRT group."
+SCR00062,Kim 2025,2025,arm_sabr,Photon_SRS_FSRT,Photon SRS/FSRT,64,55,86.6,local_recurrence,primary_5y_local_recurrence,converted_from_local_recurrence,Page 3 and Figure 1,"The 5-year local failure rate was 13.4% (95% CI, 4.6%-22.2%) for the SABR group."

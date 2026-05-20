@@ -1,0 +1,35 @@
+Domain,Judgment,N,Pct
+Patient Selection,Moderate,6,28.6
+Patient Selection,Low,5,23.8
+Patient Selection,High / unclear,3,14.3
+Patient Selection,Moderate to high,2,9.5
+Patient Selection,High,2,9.5
+Patient Selection,Low to moderate,2,9.5
+Patient Selection,High/unclear,1,4.8
+Index Test,Moderate,13,61.9
+Index Test,Low,3,14.3
+Index Test,Low to moderate,2,9.5
+Index Test,Unclear / moderate,1,4.8
+Index Test,High/unclear,1,4.8
+Index Test,High,1,4.8
+Reference Standard,Low to moderate,7,33.3
+Reference Standard,Low,7,33.3
+Reference Standard,Moderate,6,28.6
+Reference Standard,Unclear / moderate,1,4.8
+Flow and Timing,Moderate,8,38.1
+Flow and Timing,Low,5,23.8
+Flow and Timing,Low to moderate,2,9.5
+Flow and Timing,Moderate to high,2,9.5
+Flow and Timing,High,2,9.5
+Flow and Timing,High / unclear,1,4.8
+Flow and Timing,High/unclear,1,4.8
+Overall RoB,Moderate,10,47.6
+Overall RoB,Moderate to high,4,19.0
+Overall RoB,High,4,19.0
+Overall RoB,Low,3,14.3
+Overall Applicability,High,7,33.3
+Overall Applicability,Moderate,6,28.6
+Overall Applicability,Moderate concern,2,9.5
+Overall Applicability,Low,2,9.5
+Overall Applicability,Moderate to high concern,2,9.5
+Overall Applicability,High concern,2,9.5

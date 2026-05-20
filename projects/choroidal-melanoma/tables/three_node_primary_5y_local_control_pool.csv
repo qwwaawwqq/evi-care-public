@@ -1,0 +1,4 @@
+analysis_measure,three_node,three_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_local_control_success,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),17,4711,4066,85.23,80.84,88.75,0.36269,87.62,metaprop_PLOGIT_REML
+5y_local_control_success,Proton,Proton beam therapy,6,3348,3227,95.29,90.87,97.63,0.62312,87.37,metaprop_PLOGIT_REML
+5y_local_control_success,Carbon_ion,Carbon ion therapy,2,442,417,94.14,91.54,95.98,0,0,metaprop_PLOGIT_REML

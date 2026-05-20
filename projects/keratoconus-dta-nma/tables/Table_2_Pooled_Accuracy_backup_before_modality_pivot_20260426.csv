@@ -1,5 +1,0 @@
-"Stratum","Test","Sensitivity","Specificity","Youden"
-"Established keratoconus vs normal","Deep learning","0.956 [0.932, 0.974]","0.977 [0.958, 0.989]","0.934 [0.903, 0.957]"
-"Established keratoconus vs normal","Traditional ML","0.973 [0.958, 0.985]","0.985 [0.972, 0.993]","0.958 [0.937, 0.974]"
-"Early / subclinical keratoconus vs normal","Deep learning","0.944 [0.840, 0.988]","0.968 [0.916, 0.992]","0.913 [0.790, 0.971]"
-"Early / subclinical keratoconus vs normal","Traditional ML","0.940 [0.881, 0.976]","0.950 [0.912, 0.976]","0.890 [0.819, 0.938]"

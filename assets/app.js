@@ -1,5 +1,5 @@
 
-const BUILD_TS = "20260518104528";
+const BUILD_TS = "20260520085316";
 const STAGES = [
   {id:'protocol',    n:1,  title:'01 Protocol',          render:renderProtocol},
   {id:'search',      n:2,  title:'02 Search',            render:renderSearch},
@@ -238,10 +238,18 @@ function renderExtraction(s){
     ['Table 3 (full)', ex.table_3_network_meta_full_count],
     ['Table 4 (Bayes)', ex.table_4_network_bayes_count],
   ]);
-  // Project-specific tables injected by the builder (e.g. glaucoma's
-  // Table_1_Study_Characteristics, Combined_Performance, League_Table,
-  // Heterogeneity, etc.). Renders before the DR-AI canonical tables.
   const pid=state.project;
+  // Workbook sheets (Oral_cancer*.xlsx, Glucoma.xlsb.xlsx, etc.) — the
+  // canonical human-curated source. Builder stores at extraction.workbook_tables
+  // (was previously rendered only from fulltext.workbook_tables, so any
+  // project that didn't duplicate them at Stage 04 lost the render).
+  const wbt = ex.workbook_tables || [];
+  for(const t of wbt){
+    if(!t.rows || !t.rows.length) continue;
+    const cap = `${t.name}${t.n_total && t.n_total > t.rows.length ? ' — first '+t.rows.length+' of '+t.n_total : ''}`;
+    out+=`<div class="card"><div class="card-head"><span class="card-title">${esc(t.name)}</span><span class="tag">workbook</span><span class="muted small" style="margin-left:8px">${t.n_total||t.rows.length} rows</span></div>`+table(t.rows,{max:75,caption:cap,pdfPid:pid})+`</div>`;
+  }
+  // Project-specific CSVs from 05_extraction (Table_*, eTable_*, *_NMA_*, etc.)
   const extra = ex.extra_tables || [];
   for(const t of extra){
     if(!t.rows || !t.rows.length) continue;
@@ -355,12 +363,17 @@ function renderSubmission(s){
 }
 function renderPrisma(s){
   const p=s.prisma||{};
+  if(!Object.keys(p).length) return '<p class="muted">No PRISMA flow.</p>';
   return statStrip([
     ['Identified', p.identified],
     ['Screened (T/A)', p.screened],
-    ['Retrieved', p.retrieved],
+    ['Excluded at T/A', p.excluded_at_screening],
+    ['Retrieved (PDFs)', p.retrieved],
     ['Full-text assessed', p.fulltext_assessed],
-    ['Included', p.included],
+    ['Excluded at FT', p.excluded_at_fulltext],
+    ['Included in SR', p.included_in_sr],
+    ['Excluded from MA', p.excluded_from_ma],
+    ['Included in MA', p.included_in_ma ?? p.included],
   ])||'<p class="muted">No PRISMA flow.</p>';
 }
 

@@ -1,0 +1,6 @@
+treatment,Carbon ion,I-125 plaque,Photon SRS/FSRT,Proton beam,Ru-106 plaque
+Carbon ion,Carbon ion,.,0.37 (0.15 to 0.94),.,.
+I-125 plaque,0.77 (0.20 to 2.95),I-125 plaque,0.48 (0.18 to 1.26),1.15 (0.45 to 2.93),0.84 (0.40 to 1.76)
+Photon SRS/FSRT,0.37 (0.15 to 0.94),0.48 (0.18 to 1.26),Photon SRS/FSRT,.,.
+Proton beam,0.86 (0.17 to 4.39),1.11 (0.44 to 2.82),2.32 (0.61 to 8.84),Proton beam,0.76 (0.33 to 1.77)
+Ru-106 plaque,0.66 (0.14 to 3.03),0.85 (0.40 to 1.78),1.76 (0.52 to 5.95),0.76 (0.33 to 1.77),Ru-106 plaque

@@ -1,0 +1,9 @@
+Node,Endpoint,Studies_contributing,Dominant_RoB_concern,High_RoB_share,Network_certainty,Notes
+Scheimpflug tomography,Established,(largest evidence base),Patient Selection / Reference Standard,Serious — see QUADAS-3 traffic light,MODERATE ⊕⊕⊕○,Largest contributing evidence base; lowest within-node heterogeneity; narrowest CrI.
+Placido topography,Established,5-6,Patient Selection / Reference Standard,Serious,MODERATE ⊕⊕⊕○,Older case-control designs dominate; comparable to Scheimpflug on Sens/Spec but smaller evidence base.
+Biomechanics (Corvis ST),Established,3-5,Patient Selection / Reference Standard,Serious,MODERATE ⊕⊕⊕○,Wider Sens CrI; mostly two-vendor (Corvis ST) contributions.
+Anterior-segment OCT,Established,4-6,Patient Selection / Reference Standard,Serious,MODERATE ⊕⊕⊕○,Variable epithelial-thickness map definitions; otherwise similar RoB profile.
+Scheimpflug tomography,Early/subclinical,(largest evidence base for early),Patient Selection / Reference Standard,Serious,MODERATE ⊕⊕⊕○,"Reference standard heterogeneity larger for early/subclinical (Belin/Ambrosio vs Rabinowitz vs TKC); narrowest CrI among the four nodes."
+Placido topography,Early/subclinical,2-3,Patient Selection / Reference Standard / Imprecision,Serious + serious imprecision,LOW ⊕⊕○○,Very small evidence base for the early endpoint; CrI > 0.4 on Sens and Youden.
+Biomechanics (Corvis ST),Early/subclinical,2-3,Patient Selection / Reference Standard / Imprecision,Serious + serious imprecision,LOW ⊕⊕○○,High point estimates but very wide CrI; downgrade for imprecision in addition to network-level inconsistency.
+Anterior-segment OCT,Early/subclinical,2-3,Patient Selection / Reference Standard / Imprecision,Serious + serious imprecision,LOW ⊕⊕○○,"Highest posterior mean Sens but very wide CrI (0.888–1.000); largely epithelial-thickness-map studies."

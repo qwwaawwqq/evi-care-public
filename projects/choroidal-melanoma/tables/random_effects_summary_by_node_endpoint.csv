@@ -1,0 +1,71 @@
+analysis_measure,analysis_node,analysis_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_disease_specific_survival,I125_plaque,I-125 plaque,3,448,420,93.03,88.31,95.93,0.13011,52.01,metaprop_PLOGIT_REML
+5y_disease_specific_survival,mixed,Mixed/unclear,3,367,306,83.06,78.88,86.55,0,0,metaprop_PLOGIT_REML
+5y_disease_specific_survival,Photon_SRS_FSRT,Photon SRS/FSRT,1,22,20,89.13,68.81,96.82,NA,NA,metaprop_PLOGIT_REML
+5y_disease_specific_survival,PBT,Proton beam,1,147,129,87.5,81.13,91.93,NA,NA,metaprop_PLOGIT_REML
+5y_disease_specific_survival,Ru106_plaque,Ru-106 plaque,2,188,170,89.62,83.12,93.8,0.04553,27.5,metaprop_PLOGIT_REML
+5y_enucleation,I125_plaque,I-125 plaque,1,237,27,11.55,8.07,16.28,NA,NA,metaprop_PLOGIT_REML
+5y_enucleation,Ru106_plaque,Ru-106 plaque,1,310,6,2.09,0.97,4.44,NA,NA,metaprop_PLOGIT_REML
+5y_eye_retention_success,CIRT,Carbon ion,2,442,409,92.31,89.42,94.45,0,0,metaprop_PLOGIT_REML
+5y_eye_retention_success,I125_plaque,I-125 plaque,7,2154,1915,91.2,85.4,94.83,0.49717,84.05,metaprop_PLOGIT_REML
+5y_eye_retention_success,Photon_SRS_FSRT,Photon SRS/FSRT,2,241,193,79.75,74.21,84.35,0,0,metaprop_PLOGIT_REML
+5y_eye_retention_success,PBT,Proton beam,6,2278,2032,85.44,74.55,92.16,0.71902,96.4,metaprop_PLOGIT_REML
+5y_eye_retention_success,Ru106_plaque,Ru-106 plaque,4,961,886,86.85,71.18,94.65,0.92994,94.07,metaprop_PLOGIT_REML
+5y_local_control_success,CIRT,Carbon ion,2,442,417,94.14,91.54,95.98,0,0,metaprop_PLOGIT_REML
+5y_local_control_success,I125_plaque,I-125 plaque,8,1810,1669,92.4,87.99,95.28,0.4146,77.9,metaprop_PLOGIT_REML
+5y_local_control_success,Photon_SRS_FSRT,Photon SRS/FSRT,4,473,442,91.47,84.26,95.55,0.34883,70.83,metaprop_PLOGIT_REML
+5y_local_control_success,PBT,Proton beam,6,3348,3227,95.29,90.87,97.63,0.62312,87.37,metaprop_PLOGIT_REML
+5y_local_control_success,Ru106_plaque,Ru-106 plaque,13,3682,3132,82.67,77.52,86.85,0.31236,89.34,metaprop_PLOGIT_REML
+5y_local_control_success,Ru106_plus_TTT,Ru-106 plaque + TTT,1,196,174,88.58,83.33,92.33,NA,NA,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,mixed,Mixed/unclear,1,558,494,88.46,85.54,90.86,NA,NA,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,PBT,Proton beam,4,1536,1373,93.9,73.71,98.83,2.85038,97.94,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,Ru106_plaque,Ru-106 plaque,2,450,429,95,77.3,99.07,1.42591,92.55,metaprop_PLOGIT_REML
+5y_metastasis,CIRT,Carbon ion,1,192,53,27.72,21.86,34.45,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis,I125_plaque,I-125 plaque,3,475,41,9.14,6.63,12.47,0.01574,11.78,metaprop_PLOGIT_REML
+5y_metastasis,mixed,Mixed/unclear,3,2576,628,21.93,16.97,27.86,0.05196,66.35,metaprop_PLOGIT_REML
+5y_metastasis,Photon_SRS_FSRT,Photon SRS/FSRT,1,64,22,34.62,24.1,46.88,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis,PBT,Proton beam,1,424,12,2.94,1.7,5.05,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis,Ru106_plaque,Ru-106 plaque,4,1273,135,10.63,6.41,17.13,0.26495,81.49,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,CIRT,Carbon ion,1,250,200,79.88,74.46,84.39,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,I125_plaque,I-125 plaque,2,421,370,87.7,84.21,90.5,0,0,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,mixed,Mixed/unclear,1,111,82,73.66,64.75,80.98,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Photon_SRS_FSRT,Photon SRS/FSRT,2,42,37,86.28,72.64,93.71,0,0,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,PBT,Proton beam,3,946,830,84.35,71.84,91.92,0.3984,90.32,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Ru106_plaque,Ru-106 plaque,4,287,246,82.15,76.76,86.51,1e-5,56.53,metaprop_PLOGIT_REML
+5y_neovascular_glaucoma,I125_plaque,I-125 plaque,1,243,27,11.27,7.87,15.89,NA,NA,metaprop_PLOGIT_REML
+5y_overall_survival,CIRT,Carbon ion,2,442,375,84.5,77.21,89.77,0.08287,70.28,metaprop_PLOGIT_REML
+5y_overall_survival,I125_plaque,I-125 plaque,6,1466,1278,88.61,82.28,92.88,0.32048,87.33,metaprop_PLOGIT_REML
+5y_overall_survival,mixed,Mixed/unclear,3,420,350,84.33,65.52,93.85,0.78091,90.4,metaprop_PLOGIT_REML
+5y_overall_survival,Photon_SRS_FSRT,Photon SRS/FSRT,3,256,208,80.48,67.73,89,0.22987,70.33,metaprop_PLOGIT_REML
+5y_overall_survival,PBT,Proton beam,4,1168,1075,90.15,81.78,94.91,0.47379,89.11,metaprop_PLOGIT_REML
+5y_overall_survival,Ru106_plaque,Ru-106 plaque,7,1509,1323,88.92,81.83,93.46,0.51524,83.97,metaprop_PLOGIT_REML
+5y_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,1,226,124,54.85,48.33,61.2,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_optic_neuropathy,I125_plaque,I-125 plaque,1,243,51,21.11,16.44,26.68,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,1,226,72,31.94,26.2,38.28,NA,NA,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,I125_plaque,I-125 plaque,9,1124,510,31.84,17.29,51.08,1.35273,91.03,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Photon_SRS_FSRT,Photon SRS/FSRT,2,256,128,50,2.58,97.42,6.79239,99.04,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,PBT,Proton beam,6,1743,869,45.16,29.4,61.97,0.70401,97.12,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Ru106_plaque,Ru-106 plaque,4,1272,401,30.62,9.24,65.67,2.19807,98.2,metaprop_PLOGIT_REML
+complication_cataract_surgery,I125_plaque,I-125 plaque,1,237,50,21.22,16.49,26.87,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,mixed,Mixed/unclear,1,933,252,27.03,24.28,29.98,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,Photon_SRS_FSRT,Photon SRS/FSRT,1,335,73,21.88,17.78,26.61,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,Ru106_plaque,Ru-106 plaque,1,606,122,20.18,17.18,23.56,NA,NA,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,I125_plaque,I-125 plaque,3,799,112,15.77,6.33,34.17,0.7531,90.39,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Photon_SRS_FSRT,Photon SRS/FSRT,4,1167,230,19.99,16.35,24.21,0.0322,64.31,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,PBT,Proton beam,6,2009,266,11.58,5.56,22.54,0.9456,96.79,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Ru106_plaque,Ru-106 plaque,5,726,23,2.68,0.58,11.45,2.34063,80.73,metaprop_PLOGIT_REML
+complication_other,I125_plaque,I-125 plaque,1,237,130,54.83,48.47,61.04,NA,NA,metaprop_PLOGIT_REML
+complication_other,Photon_SRS_FSRT,Photon SRS/FSRT,1,212,141,66.43,59.83,72.45,NA,NA,metaprop_PLOGIT_REML
+complication_other,Ru106_plaque,Ru-106 plaque,3,483,72,10.92,4.14,25.79,0.72247,85.67,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,I125_plaque,I-125 plaque,5,893,431,48.11,32.02,64.6,0.53774,93.99,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Photon_SRS_FSRT,Photon SRS/FSRT,1,52,20,38.68,26.63,52.3,NA,NA,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,PBT,Proton beam,1,310,180,58.04,52.48,63.4,NA,NA,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,9,1901,587,22.36,12.11,37.56,1.17661,90.47,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,I125_plaque,I-125 plaque,6,1112,515,35.71,19.48,56.05,0.99862,96.13,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Photon_SRS_FSRT,Photon SRS/FSRT,3,599,311,40.67,15.42,72.05,1.31083,93.28,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,PBT,Proton beam,3,2066,1118,52.98,41.36,64.29,0.16362,94.89,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,5,1552,158,10.43,9,12.06,0,5.86,metaprop_PLOGIT_REML
+crude_local_control,PBT,Proton beam,1,36,36,98.65,81.75,99.92,NA,NA,metaprop_PLOGIT_REML
+crude_local_control,Ru106_plaque,Ru-106 plaque,1,28,28,98.28,77.68,99.89,NA,NA,metaprop_PLOGIT_REML
+secondary_3y_local_control,I125_plaque,I-125 plaque,1,161,160,99.07,95.54,99.81,NA,NA,metaprop_PLOGIT_REML
+visual_acuity_final_20_40,PBT,Proton beam,1,40,9,23.17,12.74,38.39,NA,NA,metaprop_PLOGIT_REML

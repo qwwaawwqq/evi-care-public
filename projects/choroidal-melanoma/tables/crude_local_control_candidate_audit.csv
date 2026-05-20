@@ -1,0 +1,18 @@
+record_id,study_id,comparison,local_control_data_status,recommended_use,reason
+SCR00036,Murtagh 2026,Ru-106 vs I-125 vs Proton,usable crude local-control counts,core crude sensitivity,Choroidal-only; crude recurrence/local-control by treatment arm.
+SCR00581,Guleser 2022,I-125 vs Gamma Knife,usable crude local-recurrence counts,core crude sensitivity,Mixed posterior uveal with 90.1% choroidal; recurrence counts by arm.
+SCR00002,Jarczak 2026,Ru-106 vs I-125 vs Proton,usable crude local-control counts,core crude if population relaxed to uveal melanoma,Treatment-arm local-control counts are explicit; prior exclusion was only the choroidal-only/choroidal-dominant population rule.
+SCR00062,Kim 2025,Carbon ion vs Photon SABR,usable 5-year Kaplan-Meier local failure,strict 5-year graph; not crude endpoint,"Provides the carbon bridge in original FIG6, but not crude last-follow-up local control."
+SCR00044,Anduaga-Beramendi 2025,Endoresection plus adjuvant Ru-106,excluded by primary-radiotherapy intent criterion,exclude from crude LC,"Radiotherapy is adjuvant after endoresection, not primary definitive radiotherapy."
+SCR00929,Fili 2020,Ru-106 vs I-125,retreatment proxy only,"audit only, not core","Reports repeated brachytherapy after 2000, not clean local recurrence/local control."
+SCR01490,Takiar 2015,Ru-106 vs I-125,abstract-only 5-year actuarial local control,requires full-text verification,Local PDF is abstract-only/supplement-like; endpoint is not crude last-follow-up LC.
+SCR02563,Char 2002,I-125 vs charged particle (proton/helium),late recurrence comparison only; no extractable crude arm denominators,audit only,Wrong-PDF full-text status locally; abstract gives late recurrences after 5 years but not clean arm-level crude local-control counts.
+SCR02902,Harbour 1997,I-125 vs helium ion,overall recurrence and 5-year actuarial recurrence only; no arm-level crude counts,historical context only,Pre-2000 and endpoint focuses recurrence pattern/metastatic risk rather than extractable treatment-arm crude local control.
+SCR00560,Bolling 2022,I-125 vs Proton,no local-control endpoint found,exclude from crude LC,Comparative outcomes but no local recurrence/control counts in extracted full text; median follow-up 2.7 years.
+SCR01119,Lin 2017,Plaque vs Proton,no local-control endpoint,exclude from crude LC,NCDB survival/patterns study; local control not available.
+SCR01354,Mignano/Abrams 2016,Brachytherapy vs EBRT,no local-control endpoint,exclude from crude LC,SEER survival/patterns-of-care analysis; local control not available.
+SCR02776,Wilson 1999,I-125 vs Ru-106 vs Proton,pre-2000 comparative local-control study,historical context only,Pre-2000 and outside current protocol window.
+SCR01439,Mishra 2015,Helium ion vs I-125,"5-year/12-year LC, not crude",historical helium sensitivity only,Helium ion is outside the requested treatment nodes.
+SCR08473,Char 1993,Helium ion vs I-125,randomized head-to-head local recurrence signal; no current-node crude data,historical context only,Pre-2000 randomized helium trial; helium ion is outside the requested Proton/Carbon/Brachytherapy nodes.
+SCR00392,Medek 2023,Custom-loaded vs fully-loaded I-125 plaque,zero recurrences in both arms,same-node/short-follow-up audit only,Same treatment node and custom-plaque arm mean follow-up 24 months.
+SCR00368,Stalhammar 2023,Ru-106 CCA vs Ru-106 CCB plaque,5-year recurrence by plaque design,same-node technical comparison only,Does not compare different radiotherapy modality nodes.

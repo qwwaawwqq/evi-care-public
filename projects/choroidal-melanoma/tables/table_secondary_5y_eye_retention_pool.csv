@@ -1,0 +1,6 @@
+analysis_measure,analysis_node,analysis_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_eye_retention_success,CIRT,Carbon ion,2,442,409,92.31,89.42,94.45,0,0,metaprop_PLOGIT_REML
+5y_eye_retention_success,I125_plaque,I-125 plaque,7,2154,1915,91.2,85.4,94.83,0.49717,84.05,metaprop_PLOGIT_REML
+5y_eye_retention_success,Photon_SRS_FSRT,Photon SRS/FSRT,2,241,193,79.75,74.21,84.35,0,0,metaprop_PLOGIT_REML
+5y_eye_retention_success,PBT,Proton beam,6,2278,2032,85.44,74.55,92.16,0.71902,96.4,metaprop_PLOGIT_REML
+5y_eye_retention_success,Ru106_plaque,Ru-106 plaque,4,961,886,86.85,71.18,94.65,0.92994,94.07,metaprop_PLOGIT_REML

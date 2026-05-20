@@ -1,0 +1,34 @@
+analysis_measure,three_node,three_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_disease_specific_survival,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),5,636,590,91.79,88.06,94.42,0.10474,46.13,metaprop_PLOGIT_REML
+5y_disease_specific_survival,Proton,Proton beam therapy,1,147,129,87.5,81.13,91.93,NA,NA,metaprop_PLOGIT_REML
+5y_enucleation,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),2,547,33,5.17,0.92,24.33,1.54177,93.96,metaprop_PLOGIT_REML
+5y_eye_retention_success,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),10,2776,2469,88.26,83.14,91.98,0.37965,86.8,metaprop_PLOGIT_REML
+5y_eye_retention_success,Proton,Proton beam therapy,6,2278,2032,85.44,74.55,92.16,0.71902,96.4,metaprop_PLOGIT_REML
+5y_eye_retention_success,Carbon_ion,Carbon ion therapy,2,442,409,92.31,89.42,94.45,0,0,metaprop_PLOGIT_REML
+5y_local_control_success,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),17,4711,4066,85.23,80.84,88.75,0.36269,87.62,metaprop_PLOGIT_REML
+5y_local_control_success,Proton,Proton beam therapy,6,3348,3227,95.29,90.87,97.63,0.62312,87.37,metaprop_PLOGIT_REML
+5y_local_control_success,Carbon_ion,Carbon ion therapy,2,442,417,94.14,91.54,95.98,0,0,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),2,450,429,95,77.3,99.07,1.42591,92.55,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,Proton,Proton beam therapy,4,1536,1373,93.9,73.71,98.83,2.85038,97.94,metaprop_PLOGIT_REML
+5y_metastasis,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),7,1748,176,10.13,7.46,13.6,0.14123,70.4,metaprop_PLOGIT_REML
+5y_metastasis,Proton,Proton beam therapy,1,424,12,2.94,1.7,5.05,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis,Carbon_ion,Carbon ion therapy,1,192,53,27.72,21.86,34.45,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),5,369,319,83.66,78.42,87.83,0.02878,54.19,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Proton,Proton beam therapy,3,946,830,84.35,71.84,91.92,0.3984,90.32,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Carbon_ion,Carbon ion therapy,1,250,200,79.88,74.46,84.39,NA,NA,metaprop_PLOGIT_REML
+5y_neovascular_glaucoma,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),1,243,27,11.27,7.87,15.89,NA,NA,metaprop_PLOGIT_REML
+5y_overall_survival,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),12,2636,2279,87.9,83.47,91.28,0.31821,79.83,metaprop_PLOGIT_REML
+5y_overall_survival,Proton,Proton beam therapy,4,1168,1075,90.15,81.78,94.91,0.47379,89.11,metaprop_PLOGIT_REML
+5y_overall_survival,Carbon_ion,Carbon ion therapy,2,442,375,84.5,77.21,89.77,0.08287,70.28,metaprop_PLOGIT_REML
+5y_radiation_maculopathy,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),1,226,124,54.85,48.33,61.2,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_optic_neuropathy,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),2,469,123,26.24,17.02,38.15,0.13543,85.79,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),8,2396,911,36.29,21.05,54.9,1.16754,97.55,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Proton,Proton beam therapy,5,1743,869,44.17,26.57,63.38,0.77345,97.14,metaprop_PLOGIT_REML
+complication_cataract_surgery,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),2,843,172,20.48,17.89,23.33,0,0,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),8,1525,135,6.29,2.26,16.28,1.91647,85.87,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Proton,Proton beam therapy,6,2009,266,11.58,5.56,22.54,0.9456,96.79,metaprop_PLOGIT_REML
+complication_other,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),4,720,202,17.78,5.17,46.16,1.87356,97.23,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),14,2794,1018,30.67,19.7,44.36,1.1826,93.69,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Proton,Proton beam therapy,1,310,180,58.04,52.48,63.4,NA,NA,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque),11,2664,673,20.82,11.78,34.13,1.23863,98.17,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Proton,Proton beam therapy,3,2066,1118,52.98,41.36,64.29,0.16362,94.89,metaprop_PLOGIT_REML

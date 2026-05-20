@@ -1,0 +1,11 @@
+record_id,study_id,include_tier,timepoint_type,followup_summary,treatment,total,local_failure_events,local_control_events,local_control_pct
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,crude_at_followup,Mean follow-up 88.63 months; median 89 months; range 20-127,I-125 plaque,102,9,93,91.18
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,crude_at_followup,Mean follow-up 88.63 months; median 89 months; range 20-127,Proton beam,73,5,68,93.15
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,crude_at_followup,Mean follow-up 88.63 months; median 89 months; range 20-127,Ru-106 plaque,125,14,111,88.8
+SCR00036,Murtagh 2026,core_crude_choroidal,crude_at_followup,"Mean follow-up 76.9 months; treatment-group means 85.6, 77.5, and 65.0 months",I-125 plaque,72,3,69,95.83
+SCR00036,Murtagh 2026,core_crude_choroidal,crude_at_followup,"Mean follow-up 76.9 months; treatment-group means 85.6, 77.5, and 65.0 months",Proton beam,63,3,60,95.24
+SCR00036,Murtagh 2026,core_crude_choroidal,crude_at_followup,"Mean follow-up 76.9 months; treatment-group means 85.6, 77.5, and 65.0 months",Ru-106 plaque,175,7,168,96
+SCR00062,Kim 2025,strict_5y_km_not_crude,kaplan_meier_5y,Median follow-up 70.2 months for CIRT and 51.9 months for SABR,Carbon ion,192,11,181,94.27
+SCR00062,Kim 2025,strict_5y_km_not_crude,kaplan_meier_5y,Median follow-up 70.2 months for CIRT and 51.9 months for SABR,Photon SRS/FSRT,64,9,55,85.94
+SCR00581,Guleser 2022,core_crude_choroidal,crude_at_followup,"GKRS median 56 months, range 30-90; IBT median 45 months, range 30-73",I-125 plaque,201,14,187,93.03
+SCR00581,Guleser 2022,core_crude_choroidal,crude_at_followup,"GKRS median 56 months, range 30-90; IBT median 45 months, range 30-73",Photon SRS/FSRT,52,7,45,86.54

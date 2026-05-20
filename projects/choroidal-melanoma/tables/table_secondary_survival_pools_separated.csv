@@ -1,0 +1,21 @@
+analysis_measure,analysis_node,analysis_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_disease_specific_survival,I125_plaque,I-125 plaque,3,448,420,93.03,88.31,95.93,0.13011,52.01,metaprop_PLOGIT_REML
+5y_disease_specific_survival,mixed,Mixed/unclear,3,367,306,83.06,78.88,86.55,0,0,metaprop_PLOGIT_REML
+5y_disease_specific_survival,Photon_SRS_FSRT,Photon SRS/FSRT,1,22,20,89.13,68.81,96.82,NA,NA,metaprop_PLOGIT_REML
+5y_disease_specific_survival,PBT,Proton beam,1,147,129,87.5,81.13,91.93,NA,NA,metaprop_PLOGIT_REML
+5y_disease_specific_survival,Ru106_plaque,Ru-106 plaque,2,188,170,89.62,83.12,93.8,0.04553,27.5,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,mixed,Mixed/unclear,1,558,494,88.46,85.54,90.86,NA,NA,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,PBT,Proton beam,4,1536,1373,93.9,73.71,98.83,2.85038,97.94,metaprop_PLOGIT_REML
+5y_melanoma_specific_survival,Ru106_plaque,Ru-106 plaque,2,450,429,95,77.3,99.07,1.42591,92.55,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,CIRT,Carbon ion,1,250,200,79.88,74.46,84.39,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,I125_plaque,I-125 plaque,2,421,370,87.7,84.21,90.5,0,0,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,mixed,Mixed/unclear,1,111,82,73.66,64.75,80.98,NA,NA,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Photon_SRS_FSRT,Photon SRS/FSRT,2,42,37,86.28,72.64,93.71,0,0,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,PBT,Proton beam,3,946,830,84.35,71.84,91.92,0.3984,90.32,metaprop_PLOGIT_REML
+5y_metastasis_free_survival,Ru106_plaque,Ru-106 plaque,4,287,246,82.15,76.76,86.51,1e-5,56.53,metaprop_PLOGIT_REML
+5y_overall_survival,CIRT,Carbon ion,2,442,375,84.5,77.21,89.77,0.08287,70.28,metaprop_PLOGIT_REML
+5y_overall_survival,I125_plaque,I-125 plaque,6,1466,1278,88.61,82.28,92.88,0.32048,87.33,metaprop_PLOGIT_REML
+5y_overall_survival,mixed,Mixed/unclear,3,420,350,84.33,65.52,93.85,0.78091,90.4,metaprop_PLOGIT_REML
+5y_overall_survival,Photon_SRS_FSRT,Photon SRS/FSRT,3,256,208,80.48,67.73,89,0.22987,70.33,metaprop_PLOGIT_REML
+5y_overall_survival,PBT,Proton beam,4,1168,1075,90.15,81.78,94.91,0.47379,89.11,metaprop_PLOGIT_REML
+5y_overall_survival,Ru106_plaque,Ru-106 plaque,7,1509,1323,88.92,81.83,93.46,0.51524,83.97,metaprop_PLOGIT_REML

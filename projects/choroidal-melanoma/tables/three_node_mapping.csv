@@ -1,0 +1,5 @@
+analysis_node,analysis_node_label,three_node,three_node_label
+I125_plaque,I-125 plaque,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque)
+Ru106_plaque,Ru-106 plaque,Brachytherapy,Brachytherapy (I-125 or Ru-106 plaque)
+PBT,Proton beam,Proton,Proton beam therapy
+CIRT,Carbon ion,Carbon_ion,Carbon ion therapy

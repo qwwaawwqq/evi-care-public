@@ -1,0 +1,8 @@
+item,value
+requested_nodes,Brachytherapy; Proton; Carbon_ion
+source_nodes_collapsed,I125_plaque + Ru106_plaque -> Brachytherapy; PBT -> Proton; CIRT -> Carbon_ion; Photon_SRS_FSRT excluded
+comparative_studies,0
+comparative_arms,0
+distinct_nodes,0
+nma_status,not_run
+reason,"After collapsing to Brachytherapy, Proton, and Carbon ion therapy, the corrected comparative primary local-control extraction contains no eligible direct contrast among these three nodes. The only corrected comparative primary local-control study is Carbon ion versus photon SRS/FSRT; photon therapy is outside this requested three-node network."

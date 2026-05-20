@@ -1,0 +1,71 @@
+analysis_measure,analysis_node,analysis_node_label,k_rows,k_with_denominator,N_total,events_total,weighted_pct,unweighted_mean_pct
+5y_disease_specific_survival,I125_plaque,I-125 plaque,3,3,448,420,93.75,93.0
+5y_disease_specific_survival,PBT,Proton beam,1,1,147,129,87.76,87.7
+5y_disease_specific_survival,Photon_SRS_FSRT,Photon SRS/FSRT,1,1,22,20,90.91,90.7
+5y_disease_specific_survival,Ru106_plaque,Ru-106 plaque,2,2,188,170,90.43,89.85
+5y_disease_specific_survival,mixed,Mixed/unclear,3,3,367,306,83.38,83.4
+5y_enucleation,I125_plaque,I-125 plaque,1,1,237,27,11.39,11.3
+5y_enucleation,Ru106_plaque,Ru-106 plaque,1,1,310,6,1.94,2.0
+5y_eye_retention_success,CIRT,Carbon ion,2,2,442,409,92.53,92.35
+5y_eye_retention_success,I125_plaque,I-125 plaque,7,7,2154,1915,88.9,90.46
+5y_eye_retention_success,PBT,Proton beam,6,6,2278,2032,89.2,83.1
+5y_eye_retention_success,Photon_SRS_FSRT,Photon SRS/FSRT,2,2,241,193,80.08,78.7
+5y_eye_retention_success,Ru106_plaque,Ru-106 plaque,5,4,961,886,92.2,84.56
+5y_local_control_success,CIRT,Carbon ion,2,2,442,417,94.34,94.4
+5y_local_control_success,I125_plaque,I-125 plaque,8,8,1810,1669,92.21,91.71
+5y_local_control_success,PBT,Proton beam,7,6,3348,3227,96.39,94.75
+5y_local_control_success,Photon_SRS_FSRT,Photon SRS/FSRT,4,4,473,442,93.45,90.43
+5y_local_control_success,Ru106_plaque,Ru-106 plaque,13,13,3682,3132,85.06,81.14
+5y_local_control_success,Ru106_plus_TTT,Ru-106 plaque + TTT,1,1,196,174,88.78,88.8
+5y_melanoma_specific_survival,PBT,Proton beam,4,4,1536,1373,89.39,88.62
+5y_melanoma_specific_survival,Ru106_plaque,Ru-106 plaque,2,2,450,429,95.33,93.8
+5y_melanoma_specific_survival,mixed,Mixed/unclear,1,1,558,494,88.53,88.6
+5y_metastasis,CIRT,Carbon ion,1,1,192,53,27.6,27.5
+5y_metastasis,I125_plaque,I-125 plaque,3,3,475,41,8.63,9.23
+5y_metastasis,PBT,Proton beam,1,1,424,12,2.83,2.8
+5y_metastasis,Photon_SRS_FSRT,Photon SRS/FSRT,1,1,64,22,34.38,35.0
+5y_metastasis,Ru106_plaque,Ru-106 plaque,4,4,1273,135,10.6,11.23
+5y_metastasis,mixed,Mixed/unclear,3,3,2576,628,24.38,21.07
+5y_metastasis_free_survival,CIRT,Carbon ion,1,1,250,200,80.0,79.8
+5y_metastasis_free_survival,I125_plaque,I-125 plaque,2,2,421,370,87.89,88.25
+5y_metastasis_free_survival,PBT,Proton beam,4,3,946,830,87.74,84.05
+5y_metastasis_free_survival,Photon_SRS_FSRT,Photon SRS/FSRT,2,2,42,37,88.1,86.8
+5y_metastasis_free_survival,Ru106_plaque,Ru-106 plaque,4,4,287,246,85.71,85.55
+5y_metastasis_free_survival,mixed,Mixed/unclear,1,1,111,82,73.87,73.9
+5y_neovascular_glaucoma,I125_plaque,I-125 plaque,1,1,243,27,11.11,11.0
+5y_overall_survival,CIRT,Carbon ion,2,2,442,375,84.84,84.25
+5y_overall_survival,I125_plaque,I-125 plaque,7,6,1466,1278,87.18,88.0
+5y_overall_survival,PBT,Proton beam,5,4,1168,1075,92.04,89.98
+5y_overall_survival,Photon_SRS_FSRT,Photon SRS/FSRT,4,3,256,208,81.25,83.4
+5y_overall_survival,Ru106_plaque,Ru-106 plaque,8,7,1509,1323,87.67,86.1
+5y_overall_survival,mixed,Mixed/unclear,3,3,420,350,83.33,82.63
+5y_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,1,1,226,124,54.87,55.0
+5y_radiation_optic_neuropathy,I125_plaque,I-125 plaque,1,1,243,51,20.99,21.0
+5y_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,1,1,226,72,31.86,32.0
+5y_visual_acuity_20_200,I125_plaque,I-125 plaque,9,9,1124,510,45.37,35.22
+5y_visual_acuity_20_200,PBT,Proton beam,7,6,1743,869,49.86,49.11
+5y_visual_acuity_20_200,Photon_SRS_FSRT,Photon SRS/FSRT,2,2,256,128,50.0,50.0
+5y_visual_acuity_20_200,Ru106_plaque,Ru-106 plaque,4,4,1272,401,31.53,33.82
+complication_cataract_surgery,I125_plaque,I-125 plaque,2,1,237,50,21.1,30.55
+complication_cataract_surgery,Photon_SRS_FSRT,Photon SRS/FSRT,1,1,335,73,21.79,21.8
+complication_cataract_surgery,Ru106_plaque,Ru-106 plaque,2,1,606,122,20.13,20.55
+complication_cataract_surgery,mixed,Mixed/unclear,1,1,933,252,27.01,27.0
+complication_neovascular_glaucoma,I125_plaque,I-125 plaque,3,3,799,112,14.02,18.22
+complication_neovascular_glaucoma,PBT,Proton beam,7,6,2009,266,13.24,14.94
+complication_neovascular_glaucoma,Photon_SRS_FSRT,Photon SRS/FSRT,4,4,1167,230,19.71,17.95
+complication_neovascular_glaucoma,Ru106_plaque,Ru-106 plaque,5,5,726,23,3.17,4.2
+complication_other,I125_plaque,I-125 plaque,1,1,237,130,54.85,54.9
+complication_other,Photon_SRS_FSRT,Photon SRS/FSRT,1,1,212,141,66.51,66.4
+complication_other,Ru106_plaque,Ru-106 plaque,3,3,483,72,14.91,11.83
+complication_radiation_maculopathy,I125_plaque,I-125 plaque,5,5,893,431,48.26,49.18
+complication_radiation_maculopathy,PBT,Proton beam,1,1,310,180,58.06,58.0
+complication_radiation_maculopathy,Photon_SRS_FSRT,Photon SRS/FSRT,1,1,52,20,38.46,38.0
+complication_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,9,9,1901,587,30.88,25.94
+complication_radiation_optic_neuropathy,I125_plaque,I-125 plaque,6,6,1112,515,46.31,37.61
+complication_radiation_optic_neuropathy,PBT,Proton beam,4,3,2066,1118,54.11,54.38
+complication_radiation_optic_neuropathy,Photon_SRS_FSRT,Photon SRS/FSRT,3,3,599,311,51.92,42.27
+complication_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,5,5,1552,158,10.18,9.82
+crude_local_control,PBT,Proton beam,1,1,36,36,100.0,100.0
+crude_local_control,Ru106_plaque,Ru-106 plaque,1,1,28,28,100.0,100.0
+secondary_3y_local_control,I125_plaque,I-125 plaque,1,1,161,160,99.38,99.3
+visual_acuity_final_20_40,PBT,Proton beam,1,1,40,9,22.5,22.5

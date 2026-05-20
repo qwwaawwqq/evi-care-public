@@ -1,0 +1,26 @@
+analysis_measure,analysis_node,analysis_node_label,k,N_total,events_total,pooled_pct,ci_low,ci_high,tau2,I2,method
+5y_neovascular_glaucoma,I125_plaque,I-125 plaque,1,243,27,11.27,7.87,15.89,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,1,226,124,54.85,48.33,61.2,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_optic_neuropathy,I125_plaque,I-125 plaque,1,243,51,21.11,16.44,26.68,NA,NA,metaprop_PLOGIT_REML
+5y_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,1,226,72,31.94,26.2,38.28,NA,NA,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,I125_plaque,I-125 plaque,9,1124,510,31.84,17.29,51.08,1.35273,91.03,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Photon_SRS_FSRT,Photon SRS/FSRT,2,256,128,50,2.58,97.42,6.79239,99.04,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,PBT,Proton beam,6,1743,869,45.16,29.4,61.97,0.70401,97.12,metaprop_PLOGIT_REML
+5y_visual_acuity_20_200,Ru106_plaque,Ru-106 plaque,4,1272,401,30.62,9.24,65.67,2.19807,98.2,metaprop_PLOGIT_REML
+complication_cataract_surgery,I125_plaque,I-125 plaque,1,237,50,21.22,16.49,26.87,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,mixed,Mixed/unclear,1,933,252,27.03,24.28,29.98,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,Photon_SRS_FSRT,Photon SRS/FSRT,1,335,73,21.88,17.78,26.61,NA,NA,metaprop_PLOGIT_REML
+complication_cataract_surgery,Ru106_plaque,Ru-106 plaque,1,606,122,20.18,17.18,23.56,NA,NA,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,I125_plaque,I-125 plaque,3,799,112,15.77,6.33,34.17,0.7531,90.39,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Photon_SRS_FSRT,Photon SRS/FSRT,4,1167,230,19.99,16.35,24.21,0.0322,64.31,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,PBT,Proton beam,6,2009,266,11.58,5.56,22.54,0.9456,96.79,metaprop_PLOGIT_REML
+complication_neovascular_glaucoma,Ru106_plaque,Ru-106 plaque,5,726,23,2.68,0.58,11.45,2.34063,80.73,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,I125_plaque,I-125 plaque,5,893,431,48.11,32.02,64.6,0.53774,93.99,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Photon_SRS_FSRT,Photon SRS/FSRT,1,52,20,38.68,26.63,52.3,NA,NA,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,PBT,Proton beam,1,310,180,58.04,52.48,63.4,NA,NA,metaprop_PLOGIT_REML
+complication_radiation_maculopathy,Ru106_plaque,Ru-106 plaque,9,1901,587,22.36,12.11,37.56,1.17661,90.47,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,I125_plaque,I-125 plaque,6,1112,515,35.71,19.48,56.05,0.99862,96.13,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Photon_SRS_FSRT,Photon SRS/FSRT,3,599,311,40.67,15.42,72.05,1.31083,93.28,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,PBT,Proton beam,3,2066,1118,52.98,41.36,64.29,0.16362,94.89,metaprop_PLOGIT_REML
+complication_radiation_optic_neuropathy,Ru106_plaque,Ru-106 plaque,5,1552,158,10.43,9,12.06,0,5.86,metaprop_PLOGIT_REML
+visual_acuity_final_20_40,PBT,Proton beam,1,40,9,23.17,12.74,38.39,NA,NA,metaprop_PLOGIT_REML

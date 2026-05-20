@@ -1,0 +1,12 @@
+record_id,study_id,include_tier,node_set,node_a,node_b,arm_summary
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,node_5,I-125 plaque,Proton beam,I-125 plaque 93/102 (91.18%); Proton beam 68/73 (93.15%)
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,node_5,I-125 plaque,Ru-106 plaque,I-125 plaque 93/102 (91.18%); Ru-106 plaque 111/125 (88.8%)
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,node_5,Proton beam,Ru-106 plaque,Proton beam 68/73 (93.15%); Ru-106 plaque 111/125 (88.8%)
+SCR00036,Murtagh 2026,core_crude_choroidal,node_5,I-125 plaque,Proton beam,I-125 plaque 69/72 (95.83%); Proton beam 60/63 (95.24%)
+SCR00036,Murtagh 2026,core_crude_choroidal,node_5,I-125 plaque,Ru-106 plaque,I-125 plaque 69/72 (95.83%); Ru-106 plaque 168/175 (96.0%)
+SCR00036,Murtagh 2026,core_crude_choroidal,node_5,Proton beam,Ru-106 plaque,Proton beam 60/63 (95.24%); Ru-106 plaque 168/175 (96.0%)
+SCR00062,Kim 2025,strict_5y_km_not_crude,node_5,Carbon ion,Photon SRS/FSRT,Carbon ion 181/192 (94.27%); Photon SRS/FSRT 55/64 (85.94%)
+SCR00581,Guleser 2022,core_crude_choroidal,node_5,I-125 plaque,Photon SRS/FSRT,I-125 plaque 187/201 (93.03%); Photon SRS/FSRT 45/52 (86.54%)
+SCR00929,Fili 2020,proxy_not_core,node_5,I-125 plaque,Ru-106 plaque,I-125 plaque 251/254 (98.82%); Ru-106 plaque 167/181 (92.27%)
+SCR00002,Jarczak 2026,core_crude_uveal_relaxed,node_3,Brachytherapy,Proton,Brachytherapy 204/227 (89.87%); Proton 68/73 (93.15%)
+SCR00036,Murtagh 2026,core_crude_choroidal,node_3,Brachytherapy,Proton,Brachytherapy 237/247 (95.95%); Proton 60/63 (95.24%)

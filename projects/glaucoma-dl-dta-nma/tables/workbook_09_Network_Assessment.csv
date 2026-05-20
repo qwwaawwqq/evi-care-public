@@ -1,0 +1,28 @@
+section,metric,value,note
+SR readiness,screening_rows,697,All records in 02_Screening. Updated 2026-04-15.
+SR readiness,screening_tagged_sr,137,"current_status in (include_sr, include_ma)."
+SR readiness,screening_tagged_ma,137,current_status = include_ma.
+SR readiness,studies_in_catalog,151,Included studies in 03_Studies.
+SR readiness,studies_excluded_catalog,66,Studies in 03_Studies_Excluded.
+SR readiness,unique_studies_total,210,All tracked studies.
+NMA readiness,ma_studies_in_03,151,Studies with include_in_ma=yes.
+NMA readiness,node_based_quant_studies,144,Studies with ≥1 nbe=yes arm in 06.
+NMA readiness,nma_eligible_rows,201,All nbe=yes rows in 06.
+NMA readiness,nma_3node_eligible_rows,201,Rows with nma_3node_eligible=yes (connectivity).
+NMA readiness,ai_only_rows,178,NMA-eligible AI-only rows.
+NMA readiness,human_only_rows,23,NMA-eligible Human-only rows.
+NMA readiness,ai_plus_human_rows,0,NMA-eligible AI+human rows.
+NMA readiness,ai_only_studies,144,Unique studies with AI-only.
+NMA readiness,human_only_studies,14,Unique studies with Human-only.
+NMA readiness,ai_plus_human_studies,0,Unique studies with AI+human.
+NMA readiness,single_node_studies,130,Studies with 1 node type.
+NMA readiness,studies_with_2plus_nodes,14,Studies with ≥2 node types.
+NMA readiness,ai_vs_human_studies,14,Direct AI vs Human comparisons.
+NMA readiness,external_validation_rows,79,NMA-eligible external validation rows.
+NMA readiness,three_node_network_feasible,no,Requires AI+human.
+Node coverage,AI-only_modalities,"OCT, fundus, fundus+OCT",
+Node coverage,AI-only_validations,"external, external (screening), internal",
+Node coverage,Human-only_modalities,"OCT, fundus, fundus+OCT",
+Node coverage,Human-only_validations,"external, internal",
+Node coverage,AI+human_modalities,none,
+Node coverage,AI+human_validations,none,

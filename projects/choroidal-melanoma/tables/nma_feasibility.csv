@@ -1,0 +1,6 @@
+item,value
+comparative_studies,1
+comparative_arms,2
+distinct_nodes,2
+nma_status,not_run
+reason,Corrected extraction contains only one comparative primary local-control study; network is not sufficient for a connected 5-node NMA without adding legacy hard-coded contrasts.
